@@ -6,7 +6,7 @@
 
 Neural networks are one of the most powerful machine learning structures that have found many applications in various scientific and industrial fields in recent years due to the increasing computing power of processors. One of the advantages of these algorithms is that they make it possible to construct any arbitrary derivative function using only two hidden layers of neurons. Therefore, it is possible to learn any non-linear function using these structures. 
 
-In this project, we're going to investigate some issues related to neural networks with the `TensorFlow` library, using the `Keras` high-level interface. In this problem, we want to identify the type of animal based on the image, using neural networks (MLPs).
+In this project, we're going to investigate some issues related to neural networks with the `TensorFlow` library, using the `Keras` high-level interface. In this problem, we want to determine the animal species based on the image, using neural networks (MLPs).
 
 <img src='https://github.com/HesamAsad/AI-Fall2021-CA5-p2-TensorFlow-Keras/blob/master/Oregon%20WildLife.jpg?raw=true' width=600>
 
